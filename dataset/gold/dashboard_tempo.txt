@@ -1,0 +1,13 @@
+;Month;Credit_Mix;Count
+0;December;Bad;2970
+1;December;Good;3799
+2;December;Standard;5731
+3;November;Bad;2971
+4;November;Good;3800
+5;November;Standard;5729
+6;October;Bad;2969
+7;October;Good;3796
+8;October;Standard;5735
+9;September;Bad;3014
+10;September;Good;3756
+11;September;Standard;5730

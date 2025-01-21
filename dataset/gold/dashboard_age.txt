@@ -1,0 +1,4 @@
+;Credit_Mix;Media
+0;Bad;30.0
+1;Good;37.0
+2;Standard;33.0
